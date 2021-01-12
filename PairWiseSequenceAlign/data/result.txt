@@ -1,0 +1,828 @@
+handle sequence i= 0     j= 1    MW411947.1      MW411948.1
+BinaryTree.py:167: DeprecationWarning: time.clock has been deprecated in Python 3.3 and will be removed from Python 3.8: use time.perf_counter or time.process_time instead
+  start = clock()
+BinaryTree.py:170: DeprecationWarning: time.clock has been deprecated in Python 3.3 and will be removed from Python 3.8: use time.perf_counter or time.process_time instead
+  finish = clock()
+save to file: MW411947.1 VS MW411948.1 result:   score:298043    memory:194320.0         time:7.7641576
+handle sequence i= 0     j= 2    MW411947.1      MW411949.1
+save to file: MW411947.1 VS MW411949.1 result:   score:298219    memory:31964.0  time:11.2022803
+handle sequence i= 0     j= 3    MW411947.1      MT232662.1
+save to file: MW411947.1 VS MT232662.1 result:   score:295915    memory:7848.0   time:13.207976500000001
+handle sequence i= 0     j= 4    MW411947.1      MT232664.1
+save to file: MW411947.1 VS MT232664.1 result:   score:297392    memory:34148.0  time:10.699808599999997
+handle sequence i= 0     j= 5    MW411947.1      MW403692.1
+save to file: MW411947.1 VS MW403692.1 result:   score:298133    memory:-3732.0  time:10.5088084
+handle sequence i= 0     j= 6    MW411947.1      MW403693.1
+save to file: MW411947.1 VS MW403693.1 result:   score:297859    memory:-908.0   time:12.280827300000006
+handle sequence i= 0     j= 7    MW411947.1      MW403694.1
+save to file: MW411947.1 VS MW403694.1 result:   score:298151    memory:12468.0  time:11.673906700000003
+handle sequence i= 0     j= 8    MW411947.1      MW403695.1
+save to file: MW411947.1 VS MW403695.1 result:   score:298118    memory:18552.0  time:11.978440599999999
+handle sequence i= 0     j= 9    MW411947.1      MW403696.1
+save to file: MW411947.1 VS MW403696.1 result:   score:298108    memory:-29632.0         time:10.737587399999995
+handle sequence i= 0     j= 10   MW411947.1      MW406485.1
+save to file: MW411947.1 VS MW406485.1 result:   score:298123    memory:-241740.0        time:14.820845299999988
+handle sequence i= 0     j= 11   MW411947.1      MW406487.1
+save to file: MW411947.1 VS MW406487.1 result:   score:298268    memory:238016.0         time:9.110888900000006
+handle sequence i= 0     j= 12   MW411947.1      MW406488.1
+save to file: MW411947.1 VS MW406488.1 result:   score:298143    memory:9424.0   time:12.827773799999989
+handle sequence i= 0     j= 13   MW411947.1      MW406490.1
+save to file: MW411947.1 VS MW406490.1 result:   score:298192    memory:-2372.0  time:13.340368399999988
+handle sequence i= 0     j= 14   MW411947.1      MW406491.1
+save to file: MW411947.1 VS MW406491.1 result:   score:298248    memory:9660.0   time:11.387460599999997
+handle sequence i= 0     j= 15   MW411947.1      MW320729.1
+save to file: MW411947.1 VS MW320729.1 result:   score:296328    memory:-36412.0         time:12.151314500000012
+handle sequence i= 0     j= 16   MW411947.1      MW320730.1
+save to file: MW411947.1 VS MW320730.1 result:   score:297483    memory:-5800.0  time:11.1841321
+handle sequence i= 0     j= 17   MW411947.1      MW320731.1
+save to file: MW411947.1 VS MW320731.1 result:   score:297665    memory:17696.0  time:11.671866800000004
+handle sequence i= 0     j= 18   MW411947.1      MW320733.1
+save to file: MW411947.1 VS MW320733.1 result:   score:297336    memory:-7136.0  time:11.872157800000025
+handle sequence i= 0     j= 19   MW411947.1      MW320735.1
+save to file: MW411947.1 VS MW320735.1 result:   score:297737    memory:42336.0  time:12.369742200000019
+handle sequence i= 0     j= 20   MW411947.1      MW064259.1
+save to file: MW411947.1 VS MW064259.1 result:   score:293394    memory:-28140.0         time:10.134956999999986
+handle sequence i= 0     j= 21   MW411947.1      MW064260.1
+save to file: MW411947.1 VS MW064260.1 result:   score:293394    memory:1508.0   time:9.781495299999989
+handle sequence i= 0     j= 22   MW411947.1      MW064263.1
+save to file: MW411947.1 VS MW064263.1 result:   score:293394    memory:228.0    time:10.035707399999978
+handle sequence i= 0     j= 23   MW411947.1      MW064264.1
+save to file: MW411947.1 VS MW064264.1 result:   score:293394    memory:-254652.0        time:10.69268630000002
+handle sequence i= 0     j= 24   MW411947.1      MW342706.1
+save to file: MW411947.1 VS MW342706.1 result:   score:297994    memory:287904.0         time:10.341313899999989
+handle sequence i= 0     j= 25   MW411947.1      MW404672.1
+save to file: MW411947.1 VS MW404672.1 result:   score:298127    memory:-48760.0         time:12.851257299999986
+handle sequence i= 0     j= 26   MW411947.1      MW404673.1
+save to file: MW411947.1 VS MW404673.1 result:   score:298047    memory:39796.0  time:13.96344849999997
+handle sequence i= 0     j= 27   MW411947.1      MW365356.1
+save to file: MW411947.1 VS MW365356.1 result:   score:298017    memory:-22624.0         time:14.736785699999984
+handle sequence i= 0     j= 28   MW411947.1      MW365357.1
+save to file: MW411947.1 VS MW365357.1 result:   score:298201    memory:-1888.0  time:12.250270100000023
+handle sequence i= 1     j= 2    MW411948.1      MW411949.1
+save to file: MW411948.1 VS MW411949.1 result:   score:298288    memory:-9348.0  time:10.715141399999993
+handle sequence i= 1     j= 3    MW411948.1      MT232662.1
+save to file: MW411948.1 VS MT232662.1 result:   score:295956    memory:-234424.0        time:14.86888590000001
+handle sequence i= 1     j= 4    MW411948.1      MT232664.1
+save to file: MW411948.1 VS MT232664.1 result:   score:297498    memory:201612.0         time:6.715506000000005
+handle sequence i= 1     j= 5    MW411948.1      MW403692.1
+save to file: MW411948.1 VS MW403692.1 result:   score:298243    memory:-11984.0         time:6.244401499999981
+handle sequence i= 1     j= 6    MW411948.1      MW403693.1
+save to file: MW411948.1 VS MW403693.1 result:   score:297805    memory:28328.0  time:9.034943400000031
+handle sequence i= 1     j= 7    MW411948.1      MW403694.1
+save to file: MW411948.1 VS MW403694.1 result:   score:298151    memory:-28232.0         time:7.192655899999977
+handle sequence i= 1     j= 8    MW411948.1      MW403695.1
+save to file: MW411948.1 VS MW403695.1 result:   score:298078    memory:45764.0  time:8.674877700000025
+handle sequence i= 1     j= 9    MW411948.1      MW403696.1
+save to file: MW411948.1 VS MW403696.1 result:   score:298193    memory:37492.0  time:8.996479599999986
+handle sequence i= 1     j= 10   MW411948.1      MW406485.1
+save to file: MW411948.1 VS MW406485.1 result:   score:298002    memory:-48388.0         time:11.802703199999996
+handle sequence i= 1     j= 11   MW411948.1      MW406487.1
+save to file: MW411948.1 VS MW406487.1 result:   score:298142    memory:7576.0   time:8.952790200000038
+handle sequence i= 1     j= 12   MW411948.1      MW406488.1
+save to file: MW411948.1 VS MW406488.1 result:   score:298007    memory:-19208.0         time:12.823016699999982
+handle sequence i= 1     j= 13   MW411948.1      MW406490.1
+save to file: MW411948.1 VS MW406490.1 result:   score:298082    memory:-222232.0        time:11.207955200000015
+handle sequence i= 1     j= 14   MW411948.1      MW406491.1
+save to file: MW411948.1 VS MW406491.1 result:   score:298112    memory:236732.0         time:7.03651119999995
+handle sequence i= 1     j= 15   MW411948.1      MW320729.1
+save to file: MW411948.1 VS MW320729.1 result:   score:296393    memory:-13628.0         time:10.157638499999962
+handle sequence i= 1     j= 16   MW411948.1      MW320730.1
+save to file: MW411948.1 VS MW320730.1 result:   score:297574    memory:-212004.0        time:11.91349839999998
+handle sequence i= 1     j= 17   MW411948.1      MW320731.1
+save to file: MW411948.1 VS MW320731.1 result:   score:297786    memory:230088.0         time:8.757354599999985
+handle sequence i= 1     j= 18   MW411948.1      MW320733.1
+save to file: MW411948.1 VS MW320733.1 result:   score:297417    memory:5308.0   time:10.335934400000042
+handle sequence i= 1     j= 19   MW411948.1      MW320735.1
+save to file: MW411948.1 VS MW320735.1 result:   score:297823    memory:-30276.0         time:10.809199399999954
+handle sequence i= 1     j= 20   MW411948.1      MW064259.1
+save to file: MW411948.1 VS MW064259.1 result:   score:293485    memory:-16844.0         time:7.4040392
+handle sequence i= 1     j= 21   MW411948.1      MW064260.1
+save to file: MW411948.1 VS MW064260.1 result:   score:293485    memory:-9880.0  time:6.7001450000000204
+handle sequence i= 1     j= 22   MW411948.1      MW064263.1
+save to file: MW411948.1 VS MW064263.1 result:   score:293485    memory:-191084.0        time:7.385591299999987
+handle sequence i= 1     j= 23   MW411948.1      MW064264.1
+save to file: MW411948.1 VS MW064264.1 result:   score:293485    memory:200924.0         time:5.290087299999982
+handle sequence i= 1     j= 24   MW411948.1      MW342706.1
+save to file: MW411948.1 VS MW342706.1 result:   score:298078    memory:-36420.0         time:12.004016500000034
+handle sequence i= 1     j= 25   MW411948.1      MW404672.1
+save to file: MW411948.1 VS MW404672.1 result:   score:297830    memory:152072.0         time:12.611419800000021
+handle sequence i= 1     j= 26   MW411948.1      MW404673.1
+save to file: MW411948.1 VS MW404673.1 result:   score:298085    memory:-313708.0        time:15.239838500000019
+handle sequence i= 1     j= 27   MW411948.1      MW365356.1
+save to file: MW411948.1 VS MW365356.1 result:   score:298052    memory:432.0    time:12.277569700000072
+handle sequence i= 1     j= 28   MW411948.1      MW365357.1
+save to file: MW411948.1 VS MW365357.1 result:   score:298225    memory:231368.0         time:9.594525399999952
+handle sequence i= 2     j= 3    MW411949.1      MT232662.1
+save to file: MW411949.1 VS MT232662.1 result:   score:295819    memory:-231612.0        time:16.36932659999991
+handle sequence i= 2     j= 4    MW411949.1      MT232664.1
+save to file: MW411949.1 VS MT232664.1 result:   score:297331    memory:254540.0         time:9.308950099999947
+handle sequence i= 2     j= 5    MW411949.1      MW403692.1
+save to file: MW411949.1 VS MW403692.1 result:   score:298216    memory:-6772.0  time:9.11148430000003
+handle sequence i= 2     j= 6    MW411949.1      MW403693.1
+save to file: MW411949.1 VS MW403693.1 result:   score:297773    memory:4244.0   time:10.078314399999954
+handle sequence i= 2     j= 7    MW411949.1      MW403694.1
+save to file: MW411949.1 VS MW403694.1 result:   score:298150    memory:-3956.0  time:9.32644670000002
+handle sequence i= 2     j= 8    MW411949.1      MW403695.1
+save to file: MW411949.1 VS MW403695.1 result:   score:298056    memory:-31636.0         time:10.859538699999916
+handle sequence i= 2     j= 9    MW411949.1      MW403696.1
+save to file: MW411949.1 VS MW403696.1 result:   score:298186    memory:34596.0  time:10.547693799999934
+handle sequence i= 2     j= 10   MW411949.1      MW406485.1
+save to file: MW411949.1 VS MW406485.1 result:   score:298268    memory:-30980.0         time:12.92248010000003
+handle sequence i= 2     j= 11   MW411949.1      MW406487.1
+save to file: MW411949.1 VS MW406487.1 result:   score:298388    memory:29652.0  time:10.577003999999988
+handle sequence i= 2     j= 12   MW411949.1      MW406488.1
+save to file: MW411949.1 VS MW406488.1 result:   score:298278    memory:-17552.0         time:13.786028999999985
+handle sequence i= 2     j= 13   MW411949.1      MW406490.1
+save to file: MW411949.1 VS MW406490.1 result:   score:298333    memory:2732.0   time:11.718597699999918
+handle sequence i= 2     j= 14   MW411949.1      MW406491.1
+save to file: MW411949.1 VS MW406491.1 result:   score:298353    memory:21852.0  time:10.885701799999993
+handle sequence i= 2     j= 15   MW411949.1      MW320729.1
+save to file: MW411949.1 VS MW320729.1 result:   score:296231    memory:-10196.0         time:13.186734000000001
+handle sequence i= 2     j= 16   MW411949.1      MW320730.1
+save to file: MW411949.1 VS MW320730.1 result:   score:297442    memory:20892.0  time:11.37157650000006
+handle sequence i= 2     j= 17   MW411949.1      MW320731.1
+save to file: MW411949.1 VS MW320731.1 result:   score:297609    memory:14196.0  time:12.010314900000026
+handle sequence i= 2     j= 18   MW411949.1      MW320733.1
+save to file: MW411949.1 VS MW320733.1 result:   score:297279    memory:-33464.0         time:12.259652099999926
+handle sequence i= 2     j= 19   MW411949.1      MW320735.1
+save to file: MW411949.1 VS MW320735.1 result:   score:297701    memory:1488.0   time:12.185009500000092
+handle sequence i= 2     j= 20   MW411949.1      MW064259.1
+save to file: MW411949.1 VS MW064259.1 result:   score:293307    memory:-9552.0  time:10.22214930000007
+handle sequence i= 2     j= 21   MW411949.1      MW064260.1
+save to file: MW411949.1 VS MW064260.1 result:   score:293307    memory:18656.0  time:13.480658500000004
+handle sequence i= 2     j= 22   MW411949.1      MW064263.1
+save to file: MW411949.1 VS MW064263.1 result:   score:293307    memory:-19988.0         time:11.392654500000049
+handle sequence i= 2     j= 23   MW411949.1      MW064264.1
+save to file: MW411949.1 VS MW064264.1 result:   score:293307    memory:13680.0  time:9.879726000000005
+handle sequence i= 2     j= 24   MW411949.1      MW342706.1
+save to file: MW411949.1 VS MW342706.1 result:   score:298350    memory:14888.0  time:13.543849300000034
+handle sequence i= 2     j= 25   MW411949.1      MW404672.1
+save to file: MW411949.1 VS MW404672.1 result:   score:298111    memory:-16120.0         time:14.209967300000017
+handle sequence i= 2     j= 26   MW411949.1      MW404673.1
+save to file: MW411949.1 VS MW404673.1 result:   score:298352    memory:55224.0  time:14.596030799999994
+handle sequence i= 2     j= 27   MW411949.1      MW365356.1
+save to file: MW411949.1 VS MW365356.1 result:   score:298307    memory:45776.0  time:16.31924630000003
+handle sequence i= 2     j= 28   MW411949.1      MW365357.1
+save to file: MW411949.1 VS MW365357.1 result:   score:298522    memory:-57348.0         time:13.004511200000024
+handle sequence i= 3     j= 4    MT232662.1      MT232664.1
+save to file: MT232662.1 VS MT232664.1 result:   score:296268    memory:-52932.0         time:9.358492400000046
+handle sequence i= 3     j= 5    MT232662.1      MW403692.1
+save to file: MT232662.1 VS MW403692.1 result:   score:296082    memory:-3096.0  time:11.087512100000026
+handle sequence i= 3     j= 6    MT232662.1      MW403693.1
+save to file: MT232662.1 VS MW403693.1 result:   score:295945    memory:-5888.0  time:12.497877099999982
+handle sequence i= 3     j= 7    MT232662.1      MW403694.1
+save to file: MT232662.1 VS MW403694.1 result:   score:296089    memory:3404.0   time:10.891885600000023
+handle sequence i= 3     j= 8    MT232662.1      MW403695.1
+save to file: MT232662.1 VS MW403695.1 result:   score:296089    memory:2264.0   time:11.656588899999974
+handle sequence i= 3     j= 9    MT232662.1      MW403696.1
+save to file: MT232662.1 VS MW403696.1 result:   score:296067    memory:-240324.0        time:11.549214599999914
+handle sequence i= 3     j= 10   MT232662.1      MW406485.1
+save to file: MT232662.1 VS MW406485.1 result:   score:295878    memory:180028.0         time:13.033025500000008
+handle sequence i= 3     j= 11   MT232662.1      MW406487.1
+save to file: MT232662.1 VS MW406487.1 result:   score:296018    memory:132212.0         time:12.551491400000032
+handle sequence i= 3     j= 12   MT232662.1      MW406488.1
+save to file: MT232662.1 VS MW406488.1 result:   score:295943    memory:-303296.0        time:16.19602789999999
+handle sequence i= 3     j= 13   MT232662.1      MW406490.1
+save to file: MT232662.1 VS MW406490.1 result:   score:295937    memory:196568.0         time:12.335278899999935
+handle sequence i= 3     j= 14   MT232662.1      MW406491.1
+save to file: MT232662.1 VS MW406491.1 result:   score:295968    memory:2836.0   time:13.374587100000099
+handle sequence i= 3     j= 15   MT232662.1      MW320729.1
+save to file: MT232662.1 VS MW320729.1 result:   score:294796    memory:26912.0  time:15.438192999999956
+handle sequence i= 3     j= 16   MT232662.1      MW320730.1
+save to file: MT232662.1 VS MW320730.1 result:   score:296082    memory:23644.0  time:13.590978699999823
+handle sequence i= 3     j= 17   MT232662.1      MW320731.1
+save to file: MT232662.1 VS MW320731.1 result:   score:296060    memory:123700.0         time:14.205374200000051
+handle sequence i= 3     j= 18   MT232662.1      MW320733.1
+save to file: MT232662.1 VS MW320733.1 result:   score:295864    memory:-144936.0        time:14.960282799999959
+handle sequence i= 3     j= 19   MT232662.1      MW320735.1
+save to file: MT232662.1 VS MW320735.1 result:   score:296043    memory:26628.0  time:13.236033399999997
+handle sequence i= 3     j= 20   MT232662.1      MW064259.1
+save to file: MT232662.1 VS MW064259.1 result:   score:292050    memory:-34744.0         time:10.196462800000063
+handle sequence i= 3     j= 21   MT232662.1      MW064260.1
+save to file: MT232662.1 VS MW064260.1 result:   score:292050    memory:-229896.0        time:10.98067160000005
+handle sequence i= 3     j= 22   MT232662.1      MW064263.1
+save to file: MT232662.1 VS MW064263.1 result:   score:292050    memory:1836.0   time:9.908200299999862
+handle sequence i= 3     j= 23   MT232662.1      MW064264.1
+save to file: MT232662.1 VS MW064264.1 result:   score:292050    memory:-1696.0  time:9.82562320000011
+handle sequence i= 3     j= 24   MT232662.1      MW342706.1
+save to file: MT232662.1 VS MW342706.1 result:   score:295825    memory:196532.0         time:13.5927365
+handle sequence i= 3     j= 25   MT232662.1      MW404672.1
+save to file: MT232662.1 VS MW404672.1 result:   score:295915    memory:39416.0  time:15.166708299999982
+handle sequence i= 3     j= 26   MT232662.1      MW404673.1
+save to file: MT232662.1 VS MW404673.1 result:   score:295826    memory:32172.0  time:16.098744199999828
+handle sequence i= 3     j= 27   MT232662.1      MW365356.1
+save to file: MT232662.1 VS MW365356.1 result:   score:295811    memory:-61872.0         time:16.530425899999955
+handle sequence i= 3     j= 28   MT232662.1      MW365357.1
+save to file: MT232662.1 VS MW365357.1 result:   score:295866    memory:16164.0  time:12.670642099999895
+handle sequence i= 4     j= 5    MT232664.1      MW403692.1
+save to file: MT232664.1 VS MW403692.1 result:   score:297609    memory:-7532.0  time:5.982067199999847
+handle sequence i= 4     j= 6    MT232664.1      MW403693.1
+save to file: MT232664.1 VS MW403693.1 result:   score:297509    memory:16796.0  time:7.685925600000019
+handle sequence i= 4     j= 7    MT232664.1      MW403694.1
+save to file: MT232664.1 VS MW403694.1 result:   score:297616    memory:-17636.0         time:5.800545900000088
+handle sequence i= 4     j= 8    MT232664.1      MW403695.1
+save to file: MT232664.1 VS MW403695.1 result:   score:297601    memory:15468.0  time:7.386342499999955
+handle sequence i= 4     j= 9    MT232664.1      MW403696.1
+save to file: MT232664.1 VS MW403696.1 result:   score:297599    memory:-14100.0         time:7.2717525999999
+handle sequence i= 4     j= 10   MT232664.1      MW406485.1
+save to file: MT232664.1 VS MW406485.1 result:   score:297375    memory:8608.0   time:10.661798500000032
+handle sequence i= 4     j= 11   MT232664.1      MW406487.1
+save to file: MT232664.1 VS MW406487.1 result:   score:297555    memory:30712.0  time:8.609466399999974
+handle sequence i= 4     j= 12   MT232664.1      MW406488.1
+save to file: MT232664.1 VS MW406488.1 result:   score:297465    memory:3828.0   time:12.337941600000022
+handle sequence i= 4     j= 13   MT232664.1      MW406490.1
+save to file: MT232664.1 VS MW406490.1 result:   score:297514    memory:-35652.0         time:9.989578400000028
+handle sequence i= 4     j= 14   MT232664.1      MW406491.1
+save to file: MT232664.1 VS MW406491.1 result:   score:297490    memory:8068.0   time:7.642372699999896
+handle sequence i= 4     j= 15   MT232664.1      MW320729.1
+save to file: MT232664.1 VS MW320729.1 result:   score:296333    memory:7316.0   time:10.269887200000085
+handle sequence i= 4     j= 16   MT232664.1      MW320730.1
+save to file: MT232664.1 VS MW320730.1 result:   score:297599    memory:-13168.0         time:8.398616599999968
+handle sequence i= 4     j= 17   MT232664.1      MW320731.1
+save to file: MT232664.1 VS MW320731.1 result:   score:297572    memory:36480.0  time:8.889712599999939
+handle sequence i= 4     j= 18   MT232664.1      MW320733.1
+save to file: MT232664.1 VS MW320733.1 result:   score:297411    memory:-22620.0         time:10.052840699999933
+handle sequence i= 4     j= 19   MT232664.1      MW320735.1
+save to file: MT232664.1 VS MW320735.1 result:   score:297565    memory:-221596.0        time:10.225365499999953
+handle sequence i= 4     j= 20   MT232664.1      MW064259.1
+save to file: MT232664.1 VS MW064259.1 result:   score:293587    memory:193832.0         time:4.7466441999999915
+handle sequence i= 4     j= 21   MT232664.1      MW064260.1
+save to file: MT232664.1 VS MW064260.1 result:   score:293587    memory:272.0    time:5.695743700000094
+handle sequence i= 4     j= 22   MT232664.1      MW064263.1
+save to file: MT232664.1 VS MW064263.1 result:   score:293587    memory:-3688.0  time:6.306564199999912
+handle sequence i= 4     j= 23   MT232664.1      MW064264.1
+save to file: MT232664.1 VS MW064264.1 result:   score:293587    memory:-56.0    time:6.139156499999899
+handle sequence i= 4     j= 24   MT232664.1      MW342706.1
+save to file: MT232664.1 VS MW342706.1 result:   score:297347    memory:-23940.0         time:8.875212500000089
+handle sequence i= 4     j= 25   MT232664.1      MW404672.1
+save to file: MT232664.1 VS MW404672.1 result:   score:297442    memory:-184400.0        time:11.147394300000087
+handle sequence i= 4     j= 26   MT232664.1      MW404673.1
+save to file: MT232664.1 VS MW404673.1 result:   score:297323    memory:5932.0   time:11.310685299999932
+handle sequence i= 4     j= 27   MT232664.1      MW365356.1
+save to file: MT232664.1 VS MW365356.1 result:   score:297326    memory:-7460.0  time:11.699315699999943
+handle sequence i= 4     j= 28   MT232664.1      MW365357.1
+save to file: MT232664.1 VS MW365357.1 result:   score:297413    memory:215780.0         time:8.039316399999962
+handle sequence i= 5     j= 6    MW403692.1      MW403693.1
+save to file: MW403692.1 VS MW403693.1 result:   score:298054    memory:-43260.0         time:5.961661399999912
+handle sequence i= 5     j= 7    MW403692.1      MW403694.1
+save to file: MW403692.1 VS MW403694.1 result:   score:298370    memory:-25256.0         time:2.709105700000009
+handle sequence i= 5     j= 8    MW403692.1      MW403695.1
+save to file: MW403692.1 VS MW403695.1 result:   score:298335    memory:53140.0  time:4.10515190000001
+handle sequence i= 5     j= 9    MW403692.1      MW403696.1
+save to file: MW403692.1 VS MW403696.1 result:   score:298475    memory:-39784.0         time:4.764067699999941
+handle sequence i= 5     j= 10   MW403692.1      MW406485.1
+save to file: MW403692.1 VS MW406485.1 result:   score:298234    memory:49780.0  time:9.591213500000094
+handle sequence i= 5     j= 11   MW403692.1      MW406487.1
+save to file: MW403692.1 VS MW406487.1 result:   score:298354    memory:-18484.0         time:5.266244799999868
+handle sequence i= 5     j= 12   MW403692.1      MW406488.1
+save to file: MW403692.1 VS MW406488.1 result:   score:298259    memory:13160.0  time:9.078765900000008
+handle sequence i= 5     j= 13   MW403692.1      MW406490.1
+save to file: MW403692.1 VS MW406490.1 result:   score:298289    memory:-23256.0         time:6.996664799999962
+handle sequence i= 5     j= 14   MW403692.1      MW406491.1
+save to file: MW403692.1 VS MW406491.1 result:   score:298329    memory:37660.0  time:6.27039179999997
+handle sequence i= 5     j= 15   MW403692.1      MW320729.1
+save to file: MW403692.1 VS MW320729.1 result:   score:296530    memory:7844.0   time:7.934437099999968
+handle sequence i= 5     j= 16   MW403692.1      MW320730.1
+save to file: MW403692.1 VS MW320730.1 result:   score:297715    memory:-22740.0         time:6.617000399999824
+handle sequence i= 5     j= 17   MW403692.1      MW320731.1
+save to file: MW403692.1 VS MW320731.1 result:   score:297912    memory:6416.0   time:6.128923799999939
+handle sequence i= 5     j= 18   MW403692.1      MW320733.1
+save to file: MW403692.1 VS MW320733.1 result:   score:297568    memory:22880.0  time:7.7166530000001785
+handle sequence i= 5     j= 19   MW403692.1      MW320735.1
+save to file: MW403692.1 VS MW320735.1 result:   score:297979    memory:31200.0  time:7.884397000000035
+handle sequence i= 5     j= 20   MW403692.1      MW064259.1
+save to file: MW403692.1 VS MW064259.1 result:   score:293621    memory:-76792.0         time:3.7013059000000794
+handle sequence i= 5     j= 21   MW403692.1      MW064260.1
+save to file: MW403692.1 VS MW064260.1 result:   score:293621    memory:-17840.0         time:3.0380934999998317
+handle sequence i= 5     j= 22   MW403692.1      MW064263.1
+save to file: MW403692.1 VS MW064263.1 result:   score:293621    memory:-1280.0  time:3.1059519000000364
+handle sequence i= 5     j= 23   MW403692.1      MW064264.1
+save to file: MW403692.1 VS MW064264.1 result:   score:293621    memory:972.0    time:3.1056326999998873
+handle sequence i= 5     j= 24   MW403692.1      MW342706.1
+save to file: MW403692.1 VS MW342706.1 result:   score:298137    memory:38784.0  time:7.379944799999976
+handle sequence i= 5     j= 25   MW403692.1      MW404672.1
+save to file: MW403692.1 VS MW404672.1 result:   score:298091    memory:24904.0  time:8.266359500000135
+handle sequence i= 5     j= 26   MW403692.1      MW404673.1
+save to file: MW403692.1 VS MW404673.1 result:   score:298134    memory:73180.0  time:11.143027200000006
+handle sequence i= 5     j= 27   MW403692.1      MW365356.1
+save to file: MW403692.1 VS MW365356.1 result:   score:298136    memory:-57508.0         time:12.1296648
+handle sequence i= 5     j= 28   MW403692.1      MW365357.1
+save to file: MW403692.1 VS MW365357.1 result:   score:298294    memory:-39680.0         time:7.741679100000056
+handle sequence i= 6     j= 7    MW403693.1      MW403694.1
+save to file: MW403693.1 VS MW403694.1 result:   score:298061    memory:-211052.0        time:6.545846800000163
+handle sequence i= 6     j= 8    MW403693.1      MW403695.1
+save to file: MW403693.1 VS MW403695.1 result:   score:298046    memory:240876.0         time:7.15356399999996
+handle sequence i= 6     j= 9    MW403693.1      MW403696.1
+save to file: MW403693.1 VS MW403696.1 result:   score:298034    memory:-24800.0         time:7.058640200000127
+handle sequence i= 6     j= 10   MW403693.1      MW406485.1
+save to file: MW403693.1 VS MW406485.1 result:   score:297822    memory:-2332.0  time:11.076330999999982
+handle sequence i= 6     j= 11   MW403693.1      MW406487.1
+save to file: MW403693.1 VS MW406487.1 result:   score:297987    memory:-209636.0        time:8.286207099999956
+handle sequence i= 6     j= 12   MW403693.1      MW406488.1
+save to file: MW403693.1 VS MW406488.1 result:   score:297894    memory:3584.0   time:10.450011500000073
+handle sequence i= 6     j= 13   MW403693.1      MW406490.1
+save to file: MW403693.1 VS MW406490.1 result:   score:297931    memory:-6128.0  time:7.628124300000081
+handle sequence i= 6     j= 14   MW403693.1      MW406491.1
+save to file: MW403693.1 VS MW406491.1 result:   score:297917    memory:317544.0         time:8.377127700000074
+handle sequence i= 6     j= 15   MW403693.1      MW320729.1
+save to file: MW403693.1 VS MW320729.1 result:   score:296307    memory:-44240.0         time:10.476413000000093
+handle sequence i= 6     j= 16   MW403693.1      MW320730.1
+save to file: MW403693.1 VS MW320730.1 result:   score:297500    memory:-71392.0         time:9.898248100000046
+handle sequence i= 6     j= 17   MW403693.1      MW320731.1
+save to file: MW403693.1 VS MW320731.1 result:   score:297665    memory:69028.0  time:10.578950999999961
+handle sequence i= 6     j= 18   MW403693.1      MW320733.1
+save to file: MW403693.1 VS MW320733.1 result:   score:297338    memory:-51800.0         time:11.333111299999928
+handle sequence i= 6     j= 19   MW403693.1      MW320735.1
+save to file: MW403693.1 VS MW320735.1 result:   score:297747    memory:42380.0  time:9.908439999999928
+handle sequence i= 6     j= 20   MW403693.1      MW064259.1
+save to file: MW403693.1 VS MW064259.1 result:   score:293409    memory:-71800.0         time:7.186488199999985
+handle sequence i= 6     j= 21   MW403693.1      MW064260.1
+save to file: MW403693.1 VS MW064260.1 result:   score:293409    memory:28036.0  time:6.428223399999979
+handle sequence i= 6     j= 22   MW403693.1      MW064263.1
+save to file: MW403693.1 VS MW064263.1 result:   score:293409    memory:3000.0   time:6.618216099999927
+handle sequence i= 6     j= 23   MW403693.1      MW064264.1
+save to file: MW403693.1 VS MW064264.1 result:   score:293409    memory:-18572.0         time:6.426297100000056
+handle sequence i= 6     j= 24   MW403693.1      MW342706.1
+save to file: MW403693.1 VS MW342706.1 result:   score:297744    memory:37692.0  time:9.796466900000041
+handle sequence i= 6     j= 25   MW403693.1      MW404672.1
+save to file: MW403693.1 VS MW404672.1 result:   score:297857    memory:-240752.0        time:11.059809899999891
+handle sequence i= 6     j= 26   MW403693.1      MW404673.1
+save to file: MW403693.1 VS MW404673.1 result:   score:297746    memory:266092.0         time:10.346674800000073
+handle sequence i= 6     j= 27   MW403693.1      MW365356.1
+save to file: MW403693.1 VS MW365356.1 result:   score:297738    memory:14440.0  time:14.481238500000018
+handle sequence i= 6     j= 28   MW403693.1      MW365357.1
+save to file: MW403693.1 VS MW365357.1 result:   score:297855    memory:-50820.0         time:9.149677200000042
+handle sequence i= 7     j= 8    MW403694.1      MW403695.1
+save to file: MW403694.1 VS MW403695.1 result:   score:298369    memory:-31788.0         time:4.786416800000097
+handle sequence i= 7     j= 9    MW403694.1      MW403696.1
+save to file: MW403694.1 VS MW403696.1 result:   score:298355    memory:-17728.0         time:4.9765354999999545
+handle sequence i= 7     j= 10   MW403694.1      MW406485.1
+save to file: MW403694.1 VS MW406485.1 result:   score:298194    memory:33480.0  time:10.038286900000003
+handle sequence i= 7     j= 11   MW403694.1      MW406487.1
+save to file: MW403694.1 VS MW406487.1 result:   score:298314    memory:-13108.0         time:4.971511999999848
+handle sequence i= 7     j= 12   MW403694.1      MW406488.1
+save to file: MW403694.1 VS MW406488.1 result:   score:298219    memory:1148.0   time:8.564573900000141
+handle sequence i= 7     j= 13   MW403694.1      MW406490.1
+save to file: MW403694.1 VS MW406490.1 result:   score:298238    memory:12192.0  time:7.112602799999877
+handle sequence i= 7     j= 14   MW403694.1      MW406491.1
+save to file: MW403694.1 VS MW406491.1 result:   score:298289    memory:2788.0   time:7.360476800000015
+handle sequence i= 7     j= 15   MW403694.1      MW320729.1
+save to file: MW403694.1 VS MW320729.1 result:   score:296537    memory:-31332.0         time:8.86028669999996
+handle sequence i= 7     j= 16   MW403694.1      MW320730.1
+save to file: MW403694.1 VS MW320730.1 result:   score:297722    memory:16288.0  time:6.680142299999943
+handle sequence i= 7     j= 17   MW403694.1      MW320731.1
+save to file: MW403694.1 VS MW320731.1 result:   score:297919    memory:6468.0   time:6.63685670000018
+handle sequence i= 7     j= 18   MW403694.1      MW320733.1
+save to file: MW403694.1 VS MW320733.1 result:   score:297575    memory:23112.0  time:7.819790099999864
+handle sequence i= 7     j= 19   MW403694.1      MW320735.1
+save to file: MW403694.1 VS MW320735.1 result:   score:297986    memory:29976.0  time:8.03428370000006
+handle sequence i= 7     j= 20   MW403694.1      MW064259.1
+save to file: MW403694.1 VS MW064259.1 result:   score:293628    memory:-97888.0         time:3.484173499999997
+handle sequence i= 7     j= 21   MW403694.1      MW064260.1
+save to file: MW403694.1 VS MW064260.1 result:   score:293628    memory:-9304.0  time:3.0380855000000793
+handle sequence i= 7     j= 22   MW403694.1      MW064263.1
+save to file: MW403694.1 VS MW064263.1 result:   score:293628    memory:-6508.0  time:2.8158935000001293
+handle sequence i= 7     j= 23   MW403694.1      MW064264.1
+save to file: MW403694.1 VS MW064264.1 result:   score:293628    memory:1740.0   time:3.022892899999988
+handle sequence i= 7     j= 24   MW403694.1      MW342706.1
+save to file: MW403694.1 VS MW342706.1 result:   score:298071    memory:39024.0  time:7.583120199999939
+handle sequence i= 7     j= 25   MW403694.1      MW404672.1
+save to file: MW403694.1 VS MW404672.1 result:   score:298098    memory:-193088.0        time:9.2534705999999
+handle sequence i= 7     j= 26   MW403694.1      MW404673.1
+save to file: MW403694.1 VS MW404673.1 result:   score:298068    memory:325308.0         time:9.702884799999993
+handle sequence i= 7     j= 27   MW403694.1      MW365356.1
+save to file: MW403694.1 VS MW365356.1 result:   score:298070    memory:-73472.0         time:12.450061499999947
+handle sequence i= 7     j= 28   MW403694.1      MW365357.1
+save to file: MW403694.1 VS MW365357.1 result:   score:298217    memory:-246888.0        time:8.35204920000001
+handle sequence i= 8     j= 9    MW403695.1      MW403696.1
+save to file: MW403695.1 VS MW403696.1 result:   score:298305    memory:245336.0         time:4.688638300000093
+handle sequence i= 8     j= 10   MW403695.1      MW406485.1
+save to file: MW403695.1 VS MW406485.1 result:   score:298095    memory:-24436.0         time:10.896883000000116
+handle sequence i= 8     j= 11   MW403695.1      MW406487.1
+save to file: MW403695.1 VS MW406487.1 result:   score:298215    memory:40308.0  time:6.964213099999824
+handle sequence i= 8     j= 12   MW403695.1      MW406488.1
+save to file: MW403695.1 VS MW406488.1 result:   score:298120    memory:60616.0  time:9.551065999999992
+handle sequence i= 8     j= 13   MW403695.1      MW406490.1
+save to file: MW403695.1 VS MW406490.1 result:   score:298140    memory:-102820.0        time:8.797069400000055
+handle sequence i= 8     j= 14   MW403695.1      MW406491.1
+save to file: MW403695.1 VS MW406491.1 result:   score:298190    memory:66492.0  time:8.060403299999962
+handle sequence i= 8     j= 15   MW403695.1      MW320729.1
+save to file: MW403695.1 VS MW320729.1 result:   score:296517    memory:-62136.0         time:9.422419900000023
+handle sequence i= 8     j= 16   MW403695.1      MW320730.1
+save to file: MW403695.1 VS MW320730.1 result:   score:297702    memory:56708.0  time:8.657113399999844
+handle sequence i= 8     j= 17   MW403695.1      MW320731.1
+save to file: MW403695.1 VS MW320731.1 result:   score:297899    memory:18236.0  time:9.945280299999922
+handle sequence i= 8     j= 18   MW403695.1      MW320733.1
+save to file: MW403695.1 VS MW320733.1 result:   score:297560    memory:-65428.0         time:9.741956200000004
+handle sequence i= 8     j= 19   MW403695.1      MW320735.1
+save to file: MW403695.1 VS MW320735.1 result:   score:297976    memory:123036.0         time:9.81663350000008
+handle sequence i= 8     j= 20   MW403695.1      MW064259.1
+save to file: MW403695.1 VS MW064259.1 result:   score:293603    memory:-141676.0        time:6.35391350000009
+handle sequence i= 8     j= 21   MW403695.1      MW064260.1
+save to file: MW403695.1 VS MW064260.1 result:   score:293603    memory:6604.0   time:5.849349300000085
+handle sequence i= 8     j= 22   MW403695.1      MW064263.1
+save to file: MW403695.1 VS MW064263.1 result:   score:293603    memory:30216.0  time:6.125553699999955
+handle sequence i= 8     j= 23   MW403695.1      MW064264.1
+save to file: MW403695.1 VS MW064264.1 result:   score:293603    memory:2816.0   time:6.154923499999768
+handle sequence i= 8     j= 24   MW403695.1      MW342706.1
+save to file: MW403695.1 VS MW342706.1 result:   score:297982    memory:-452.0   time:9.79547939999975
+handle sequence i= 8     j= 25   MW403695.1      MW404672.1
+save to file: MW403695.1 VS MW404672.1 result:   score:298073    memory:-19284.0         time:12.376571400000103
+handle sequence i= 8     j= 26   MW403695.1      MW404673.1
+save to file: MW403695.1 VS MW404673.1 result:   score:297994    memory:58504.0  time:13.944837100000314
+handle sequence i= 8     j= 27   MW403695.1      MW365356.1
+save to file: MW403695.1 VS MW365356.1 result:   score:297981    memory:10292.0  time:14.041957699999784
+handle sequence i= 8     j= 28   MW403695.1      MW365357.1
+save to file: MW403695.1 VS MW365357.1 result:   score:298129    memory:-8940.0  time:9.239886500000011
+handle sequence i= 9     j= 10   MW403696.1      MW406485.1
+save to file: MW403696.1 VS MW406485.1 result:   score:298199    memory:-87004.0         time:10.859301100000266
+handle sequence i= 9     j= 11   MW403696.1      MW406487.1
+save to file: MW403696.1 VS MW406487.1 result:   score:298309    memory:48084.0  time:6.948721400000068
+handle sequence i= 9     j= 12   MW403696.1      MW406488.1
+save to file: MW403696.1 VS MW406488.1 result:   score:298224    memory:-32316.0         time:9.278911999999764
+handle sequence i= 9     j= 13   MW403696.1      MW406490.1
+save to file: MW403696.1 VS MW406490.1 result:   score:298264    memory:-226004.0        time:7.909240500000124
+handle sequence i= 9     j= 14   MW403696.1      MW406491.1
+save to file: MW403696.1 VS MW406491.1 result:   score:298294    memory:284840.0         time:6.5344326000004
+handle sequence i= 9     j= 15   MW403696.1      MW320729.1
+save to file: MW403696.1 VS MW320729.1 result:   score:296500    memory:-64872.0         time:9.475085900000067
+handle sequence i= 9     j= 16   MW403696.1      MW320730.1
+save to file: MW403696.1 VS MW320730.1 result:   score:297705    memory:10388.0  time:7.612977999999657
+handle sequence i= 9     j= 17   MW403696.1      MW320731.1
+save to file: MW403696.1 VS MW320731.1 result:   score:297857    memory:27716.0  time:8.630007200000364
+handle sequence i= 9     j= 18   MW403696.1      MW320733.1
+save to file: MW403696.1 VS MW320733.1 result:   score:297550    memory:-21008.0         time:9.74022369999966
+handle sequence i= 9     j= 19   MW403696.1      MW320735.1
+save to file: MW403696.1 VS MW320735.1 result:   score:297939    memory:93808.0  time:9.635520900000301
+handle sequence i= 9     j= 20   MW403696.1      MW064259.1
+save to file: MW403696.1 VS MW064259.1 result:   score:293601    memory:-165012.0        time:5.7458456000003935
+handle sequence i= 9     j= 21   MW403696.1      MW064260.1
+save to file: MW403696.1 VS MW064260.1 result:   score:293601    memory:17976.0  time:4.709917300000143
+handle sequence i= 9     j= 22   MW403696.1      MW064263.1
+save to file: MW403696.1 VS MW064263.1 result:   score:293601    memory:-3888.0  time:4.783668799999759
+handle sequence i= 9     j= 23   MW403696.1      MW064264.1
+save to file: MW403696.1 VS MW064264.1 result:   score:293601    memory:6152.0   time:4.678423400000156
+handle sequence i= 9     j= 24   MW403696.1      MW342706.1
+save to file: MW403696.1 VS MW342706.1 result:   score:298114    memory:36560.0  time:8.817466500000137
+handle sequence i= 9     j= 25   MW403696.1      MW404672.1
+save to file: MW403696.1 VS MW404672.1 result:   score:298050    memory:8468.0   time:9.410412299999734
+handle sequence i= 9     j= 26   MW403696.1      MW404673.1
+save to file: MW403696.1 VS MW404673.1 result:   score:298106    memory:95172.0  time:11.42820840000013
+handle sequence i= 9     j= 27   MW403696.1      MW365356.1
+save to file: MW403696.1 VS MW365356.1 result:   score:298118    memory:-43536.0         time:12.326285000000098
+handle sequence i= 9     j= 28   MW403696.1      MW365357.1
+save to file: MW403696.1 VS MW365357.1 result:   score:298261    memory:-59020.0         time:7.8885228000003735
+handle sequence i= 10    j= 11   MW406485.1      MW406487.1
+save to file: MW406485.1 VS MW406487.1 result:   score:298515    memory:38900.0  time:11.670859099999689
+handle sequence i= 10    j= 12   MW406485.1      MW406488.1
+save to file: MW406485.1 VS MW406488.1 result:   score:298395    memory:5808.0   time:14.630951699999969
+handle sequence i= 10    j= 13   MW406485.1      MW406490.1
+save to file: MW406485.1 VS MW406490.1 result:   score:298430    memory:-262092.0        time:13.311507899999924
+handle sequence i= 10    j= 14   MW406485.1      MW406491.1
+save to file: MW406485.1 VS MW406491.1 result:   score:298490    memory:247224.0         time:10.26461399999971
+handle sequence i= 10    j= 15   MW406485.1      MW320729.1
+save to file: MW406485.1 VS MW320729.1 result:   score:296276    memory:-16132.0         time:13.720141400000102
+handle sequence i= 10    j= 16   MW406485.1      MW320730.1
+save to file: MW406485.1 VS MW320730.1 result:   score:297476    memory:-6352.0  time:12.07508450000023
+handle sequence i= 10    j= 17   MW406485.1      MW320731.1
+save to file: MW406485.1 VS MW320731.1 result:   score:297678    memory:85184.0  time:13.284551000000192
+handle sequence i= 10    j= 18   MW406485.1      MW320733.1
+save to file: MW406485.1 VS MW320733.1 result:   score:297324    memory:-52572.0         time:14.018260199999986
+handle sequence i= 10    j= 19   MW406485.1      MW320735.1
+save to file: MW406485.1 VS MW320735.1 result:   score:297745    memory:3676.0   time:12.78435810000019
+handle sequence i= 10    j= 20   MW406485.1      MW064259.1
+save to file: MW406485.1 VS MW064259.1 result:   score:293377    memory:-8280.0  time:9.893011399999978
+handle sequence i= 10    j= 21   MW406485.1      MW064260.1
+save to file: MW406485.1 VS MW064260.1 result:   score:293377    memory:11524.0  time:9.764277900000252
+handle sequence i= 10    j= 22   MW406485.1      MW064263.1
+save to file: MW406485.1 VS MW064263.1 result:   score:293377    memory:-396.0   time:9.470133099999657
+handle sequence i= 10    j= 23   MW406485.1      MW064264.1
+save to file: MW406485.1 VS MW064264.1 result:   score:293377    memory:-4088.0  time:9.402392899999995
+handle sequence i= 10    j= 24   MW406485.1      MW342706.1
+save to file: MW406485.1 VS MW342706.1 result:   score:298240    memory:-16968.0         time:12.354369800000313
+handle sequence i= 10    j= 25   MW406485.1      MW404672.1
+save to file: MW406485.1 VS MW404672.1 result:   score:298140    memory:12356.0  time:13.325333499999942
+handle sequence i= 10    j= 26   MW406485.1      MW404673.1
+save to file: MW406485.1 VS MW404673.1 result:   score:298237    memory:44668.0  time:13.840608800000155
+handle sequence i= 10    j= 27   MW406485.1      MW365356.1
+save to file: MW406485.1 VS MW365356.1 result:   score:298157    memory:-46528.0         time:16.365746699999818
+handle sequence i= 10    j= 28   MW406485.1      MW365357.1
+save to file: MW406485.1 VS MW365357.1 result:   score:298391    memory:35496.0  time:13.258138099999996
+handle sequence i= 11    j= 12   MW406487.1      MW406488.1
+save to file: MW406487.1 VS MW406488.1 result:   score:298640    memory:-40776.0         time:9.230080299999827
+handle sequence i= 11    j= 13   MW406487.1      MW406490.1
+save to file: MW406487.1 VS MW406490.1 result:   score:298665    memory:-25680.0         time:7.603454600000077
+handle sequence i= 11    j= 14   MW406487.1      MW406491.1
+save to file: MW406487.1 VS MW406491.1 result:   score:298605    memory:-144.0   time:7.147591299999931
+handle sequence i= 11    j= 15   MW406487.1      MW320729.1
+save to file: MW406487.1 VS MW320729.1 result:   score:296400    memory:16988.0  time:9.669616399999995
+handle sequence i= 11    j= 16   MW406487.1      MW320730.1
+save to file: MW406487.1 VS MW320730.1 result:   score:297571    memory:-14788.0         time:8.004996799999844
+handle sequence i= 11    j= 17   MW406487.1      MW320731.1
+save to file: MW406487.1 VS MW320731.1 result:   score:297773    memory:-12436.0         time:7.628816699999788
+handle sequence i= 11    j= 18   MW406487.1      MW320733.1
+save to file: MW406487.1 VS MW320733.1 result:   score:297434    memory:24148.0  time:9.568416699999943
+handle sequence i= 11    j= 19   MW406487.1      MW320735.1
+save to file: MW406487.1 VS MW320735.1 result:   score:297830    memory:44708.0  time:9.454844400000184
+handle sequence i= 11    j= 20   MW406487.1      MW064259.1
+save to file: MW406487.1 VS MW064259.1 result:   score:293497    memory:-54668.0         time:6.537205699999959
+handle sequence i= 11    j= 21   MW406487.1      MW064260.1
+save to file: MW406487.1 VS MW064260.1 result:   score:293497    memory:-10804.0         time:5.688655400000243
+handle sequence i= 11    j= 22   MW406487.1      MW064263.1
+save to file: MW406487.1 VS MW064263.1 result:   score:293497    memory:-7228.0  time:6.126693800000339
+handle sequence i= 11    j= 23   MW406487.1      MW064264.1
+save to file: MW406487.1 VS MW064264.1 result:   score:293497    memory:9068.0   time:5.824253499999941
+handle sequence i= 11    j= 24   MW406487.1      MW342706.1
+save to file: MW406487.1 VS MW342706.1 result:   score:298435    memory:66184.0  time:10.838130999999976
+handle sequence i= 11    j= 25   MW406487.1      MW404672.1
+save to file: MW406487.1 VS MW404672.1 result:   score:298330    memory:-60300.0         time:10.514272800000072
+handle sequence i= 11    j= 26   MW406487.1      MW404673.1
+save to file: MW406487.1 VS MW404673.1 result:   score:298447    memory:79672.0  time:11.87928520000014
+handle sequence i= 11    j= 27   MW406487.1      MW365356.1
+save to file: MW406487.1 VS MW365356.1 result:   score:298362    memory:-56468.0         time:13.63594890000013
+handle sequence i= 11    j= 28   MW406487.1      MW365357.1
+save to file: MW406487.1 VS MW365357.1 result:   score:298536    memory:36244.0  time:9.960908300000028
+handle sequence i= 12    j= 13   MW406488.1      MW406490.1
+save to file: MW406488.1 VS MW406490.1 result:   score:298535    memory:-37680.0         time:11.66478139999981
+handle sequence i= 12    j= 14   MW406488.1      MW406491.1
+save to file: MW406488.1 VS MW406491.1 result:   score:298525    memory:-26800.0         time:11.215799600000082
+handle sequence i= 12    j= 15   MW406488.1      MW320729.1
+save to file: MW406488.1 VS MW320729.1 result:   score:296280    memory:-221752.0        time:12.667685299999903
+handle sequence i= 12    j= 16   MW406488.1      MW320730.1
+save to file: MW406488.1 VS MW320730.1 result:   score:297496    memory:218540.0         time:9.3657804999998
+handle sequence i= 12    j= 17   MW406488.1      MW320731.1
+save to file: MW406488.1 VS MW320731.1 result:   score:297673    memory:-4508.0  time:10.484282000000348
+handle sequence i= 12    j= 18   MW406488.1      MW320733.1
+save to file: MW406488.1 VS MW320733.1 result:   score:297304    memory:45844.0  time:12.314926699999887
+handle sequence i= 12    j= 19   MW406488.1      MW320735.1
+save to file: MW406488.1 VS MW320735.1 result:   score:297740    memory:-43808.0         time:10.986960300000192
+handle sequence i= 12    j= 20   MW406488.1      MW064259.1
+save to file: MW406488.1 VS MW064259.1 result:   score:293392    memory:5164.0   time:8.638345399999707
+handle sequence i= 12    j= 21   MW406488.1      MW064260.1
+save to file: MW406488.1 VS MW064260.1 result:   score:293392    memory:9996.0   time:8.620738099999926
+handle sequence i= 12    j= 22   MW406488.1      MW064263.1
+save to file: MW406488.1 VS MW064263.1 result:   score:293392    memory:20324.0  time:8.805153100000098
+handle sequence i= 12    j= 23   MW406488.1      MW064264.1
+save to file: MW406488.1 VS MW064264.1 result:   score:293392    memory:208.0    time:9.111049999999977
+handle sequence i= 12    j= 24   MW406488.1      MW342706.1
+save to file: MW406488.1 VS MW342706.1 result:   score:298310    memory:29952.0  time:13.03370539999969
+handle sequence i= 12    j= 25   MW406488.1      MW404672.1
+save to file: MW406488.1 VS MW404672.1 result:   score:298240    memory:-36740.0         time:11.566006000000016
+handle sequence i= 12    j= 26   MW406488.1      MW404673.1
+save to file: MW406488.1 VS MW404673.1 result:   score:298357    memory:14884.0  time:13.00153199999977
+handle sequence i= 12    j= 27   MW406488.1      MW365356.1
+save to file: MW406488.1 VS MW365356.1 result:   score:298212    memory:2728.0   time:14.897202200000265
+handle sequence i= 12    j= 28   MW406488.1      MW365357.1
+save to file: MW406488.1 VS MW365357.1 result:   score:298401    memory:-18484.0         time:11.701817699999992
+handle sequence i= 13    j= 14   MW406490.1      MW406491.1
+save to file: MW406490.1 VS MW406491.1 result:   score:298515    memory:-1852.0  time:9.291350500000135
+handle sequence i= 13    j= 15   MW406490.1      MW320729.1
+save to file: MW406490.1 VS MW320729.1 result:   score:296329    memory:-7144.0  time:11.027817000000141
+handle sequence i= 13    j= 16   MW406490.1      MW320730.1
+save to file: MW406490.1 VS MW320730.1 result:   score:297500    memory:4680.0   time:9.40284870000005
+handle sequence i= 13    j= 17   MW406490.1      MW320731.1
+save to file: MW406490.1 VS MW320731.1 result:   score:297687    memory:-3784.0  time:9.365018599999985
+handle sequence i= 13    j= 18   MW406490.1      MW320733.1
+save to file: MW406490.1 VS MW320733.1 result:   score:297359    memory:11944.0  time:10.521708000000217
+handle sequence i= 13    j= 19   MW406490.1      MW320735.1
+save to file: MW406490.1 VS MW320735.1 result:   score:297759    memory:10404.0  time:11.042162500000359
+handle sequence i= 13    j= 20   MW406490.1      MW064259.1
+save to file: MW406490.1 VS MW064259.1 result:   score:293442    memory:-60324.0         time:7.523271300000033
+handle sequence i= 13    j= 21   MW406490.1      MW064260.1
+save to file: MW406490.1 VS MW064260.1 result:   score:293442    memory:-8464.0  time:7.00174670000024
+handle sequence i= 13    j= 22   MW406490.1      MW064263.1
+save to file: MW406490.1 VS MW064263.1 result:   score:293442    memory:5680.0   time:7.375688699999955
+handle sequence i= 13    j= 23   MW406490.1      MW064264.1
+save to file: MW406490.1 VS MW064264.1 result:   score:293442    memory:-7100.0  time:12.458729500000118
+handle sequence i= 13    j= 24   MW406490.1      MW342706.1
+save to file: MW406490.1 VS MW342706.1 result:   score:298390    memory:-186764.0        time:18.003657100000055
+handle sequence i= 13    j= 25   MW406490.1      MW404672.1
+save to file: MW406490.1 VS MW404672.1 result:   score:298290    memory:218368.0         time:15.039201499999763
+handle sequence i= 13    j= 26   MW406490.1      MW404673.1
+save to file: MW406490.1 VS MW404673.1 result:   score:298362    memory:107052.0         time:21.739236000000346
+handle sequence i= 13    j= 27   MW406490.1      MW365356.1
+save to file: MW406490.1 VS MW365356.1 result:   score:298231    memory:19456.0  time:22.973211999999876
+handle sequence i= 13    j= 28   MW406490.1      MW365357.1
+save to file: MW406490.1 VS MW365357.1 result:   score:298466    memory:-154208.0        time:14.74210710000034
+handle sequence i= 14    j= 15   MW406491.1      MW320729.1
+save to file: MW406491.1 VS MW320729.1 result:   score:296400    memory:40268.0  time:14.265746099999888
+handle sequence i= 14    j= 16   MW406491.1      MW320730.1
+save to file: MW406491.1 VS MW320730.1 result:   score:297576    memory:-5388.0  time:12.3590264999998
+handle sequence i= 14    j= 17   MW406491.1      MW320731.1
+save to file: MW406491.1 VS MW320731.1 result:   score:297748    memory:1476.0   time:10.722193600000082
+handle sequence i= 14    j= 18   MW406491.1      MW320733.1
+save to file: MW406491.1 VS MW320733.1 result:   score:297401    memory:5736.0   time:11.62689679999994
+handle sequence i= 14    j= 19   MW406491.1      MW320735.1
+save to file: MW406491.1 VS MW320735.1 result:   score:297820    memory:44900.0  time:13.070179800000005
+handle sequence i= 14    j= 20   MW406491.1      MW064259.1
+save to file: MW406491.1 VS MW064259.1 result:   score:293472    memory:-5240.0  time:8.498619800000142
+handle sequence i= 14    j= 21   MW406491.1      MW064260.1
+save to file: MW406491.1 VS MW064260.1 result:   score:293472    memory:-60904.0         time:7.8734120999997685
+handle sequence i= 14    j= 22   MW406491.1      MW064263.1
+save to file: MW406491.1 VS MW064263.1 result:   score:293472    memory:600.0    time:7.466242699999839
+handle sequence i= 14    j= 23   MW406491.1      MW064264.1
+save to file: MW406491.1 VS MW064264.1 result:   score:293472    memory:-684.0   time:7.990574799999649
+handle sequence i= 14    j= 24   MW406491.1      MW342706.1
+save to file: MW406491.1 VS MW342706.1 result:   score:298370    memory:36080.0  time:12.794426999999814
+handle sequence i= 14    j= 25   MW406491.1      MW404672.1
+save to file: MW406491.1 VS MW404672.1 result:   score:298240    memory:-255384.0        time:14.602831000000151
+handle sequence i= 14    j= 26   MW406491.1      MW404673.1
+save to file: MW406491.1 VS MW404673.1 result:   score:298357    memory:278508.0         time:12.702126300000145
+handle sequence i= 14    j= 27   MW406491.1      MW365356.1
+save to file: MW406491.1 VS MW365356.1 result:   score:298287    memory:-19092.0         time:12.515492999999879
+handle sequence i= 14    j= 28   MW406491.1      MW365357.1
+save to file: MW406491.1 VS MW365357.1 result:   score:298506    memory:36476.0  time:10.602831000000151
+handle sequence i= 15    j= 16   MW320729.1      MW320730.1
+save to file: MW320729.1 VS MW320730.1 result:   score:296532    memory:-18868.0         time:6.933874599999854
+handle sequence i= 15    j= 17   MW320729.1      MW320731.1
+save to file: MW320729.1 VS MW320731.1 result:   score:296633    memory:-53960.0         time:6.411828799999967
+handle sequence i= 15    j= 18   MW320729.1      MW320733.1
+save to file: MW320729.1 VS MW320733.1 result:   score:296359    memory:-7028.0  time:7.389643000000433
+handle sequence i= 15    j= 19   MW320729.1      MW320735.1
+save to file: MW320729.1 VS MW320735.1 result:   score:296621    memory:8280.0   time:7.227934000000005
+handle sequence i= 15    j= 20   MW320729.1      MW064259.1
+save to file: MW320729.1 VS MW064259.1 result:   score:292332    memory:-223612.0        time:9.673617500000091
+handle sequence i= 15    j= 21   MW320729.1      MW064260.1
+save to file: MW320729.1 VS MW064260.1 result:   score:292332    memory:206696.0         time:7.272810400000253
+handle sequence i= 15    j= 22   MW320729.1      MW064263.1
+save to file: MW320729.1 VS MW064263.1 result:   score:292332    memory:-1596.0  time:8.170716500000253
+handle sequence i= 15    j= 23   MW320729.1      MW064264.1
+save to file: MW320729.1 VS MW064264.1 result:   score:292332    memory:3964.0   time:8.46935399999984
+handle sequence i= 15    j= 24   MW320729.1      MW342706.1
+save to file: MW320729.1 VS MW342706.1 result:   score:296258    memory:49400.0  time:12.754954400000315
+handle sequence i= 15    j= 25   MW320729.1      MW404672.1
+save to file: MW320729.1 VS MW404672.1 result:   score:296282    memory:24356.0  time:13.218642299999829
+handle sequence i= 15    j= 26   MW320729.1      MW404673.1
+save to file: MW320729.1 VS MW404673.1 result:   score:296193    memory:-277480.0        time:14.319980199999918
+handle sequence i= 15    j= 27   MW320729.1      MW365356.1
+save to file: MW320729.1 VS MW365356.1 result:   score:296191    memory:204616.0         time:12.317333899999994
+handle sequence i= 15    j= 28   MW320729.1      MW365357.1
+save to file: MW320729.1 VS MW365357.1 result:   score:296328    memory:155708.0         time:11.319527199999811
+handle sequence i= 16    j= 17   MW320730.1      MW320731.1
+save to file: MW320730.1 VS MW320731.1 result:   score:297808    memory:-196592.0        time:4.794022099999893
+handle sequence i= 16    j= 18   MW320730.1      MW320733.1
+save to file: MW320730.1 VS MW320733.1 result:   score:297640    memory:52012.0  time:6.125725399999737
+handle sequence i= 16    j= 19   MW320730.1      MW320735.1
+save to file: MW320730.1 VS MW320735.1 result:   score:297806    memory:-24584.0         time:4.683696699999928
+handle sequence i= 16    j= 20   MW320730.1      MW064259.1
+save to file: MW320730.1 VS MW064259.1 result:   score:293601    memory:10232.0  time:6.627933000000212
+handle sequence i= 16    j= 21   MW320730.1      MW064260.1
+save to file: MW320730.1 VS MW064260.1 result:   score:293601    memory:936.0    time:6.535929499999838
+handle sequence i= 16    j= 22   MW320730.1      MW064263.1
+save to file: MW320730.1 VS MW064263.1 result:   score:293601    memory:528.0    time:6.477038600000014
+handle sequence i= 16    j= 23   MW320730.1      MW064264.1
+save to file: MW320730.1 VS MW064264.1 result:   score:293601    memory:-1532.0  time:6.524735399999827
+handle sequence i= 16    j= 24   MW320730.1      MW342706.1
+save to file: MW320730.1 VS MW342706.1 result:   score:297353    memory:-7864.0  time:11.119589900000392
+handle sequence i= 16    j= 25   MW320730.1      MW404672.1
+save to file: MW320730.1 VS MW404672.1 result:   score:297443    memory:68428.0  time:11.240539999999783
+handle sequence i= 16    j= 26   MW320730.1      MW404673.1
+save to file: MW320730.1 VS MW404673.1 result:   score:297349    memory:-249068.0        time:13.15453609999986
+handle sequence i= 16    j= 27   MW320730.1      MW365356.1
+save to file: MW320730.1 VS MW365356.1 result:   score:297332    memory:172880.0         time:11.747936199999913
+handle sequence i= 16    j= 28   MW320730.1      MW365357.1
+save to file: MW320730.1 VS MW365357.1 result:   score:297469    memory:82184.0  time:10.137503999999808
+handle sequence i= 17    j= 18   MW320731.1      MW320733.1
+save to file: MW320731.1 VS MW320733.1 result:   score:297653    memory:-17708.0         time:6.710008900000048
+handle sequence i= 17    j= 19   MW320731.1      MW320735.1
+save to file: MW320731.1 VS MW320735.1 result:   score:298008    memory:-1984.0  time:5.83356589999994
+handle sequence i= 17    j= 20   MW320731.1      MW064259.1
+save to file: MW320731.1 VS MW064259.1 result:   score:293594    memory:-28388.0         time:7.031925399999636
+handle sequence i= 17    j= 21   MW320731.1      MW064260.1
+save to file: MW320731.1 VS MW064260.1 result:   score:293594    memory:-576.0   time:6.663893299999927
+handle sequence i= 17    j= 22   MW320731.1      MW064263.1
+save to file: MW320731.1 VS MW064263.1 result:   score:293594    memory:584.0    time:6.644907400000193
+handle sequence i= 17    j= 23   MW320731.1      MW064264.1
+save to file: MW320731.1 VS MW064264.1 result:   score:293594    memory:-120.0   time:6.796192499999961
+handle sequence i= 17    j= 24   MW320731.1      MW342706.1
+save to file: MW320731.1 VS MW342706.1 result:   score:297535    memory:98132.0  time:11.25263300000006
+handle sequence i= 17    j= 25   MW320731.1      MW404672.1
+save to file: MW320731.1 VS MW404672.1 result:   score:297640    memory:-44780.0         time:12.90230930000007
+handle sequence i= 17    j= 26   MW320731.1      MW404673.1
+save to file: MW320731.1 VS MW404673.1 result:   score:297541    memory:16628.0  time:14.628223400000024
+handle sequence i= 17    j= 27   MW320731.1      MW365356.1
+save to file: MW320731.1 VS MW365356.1 result:   score:297554    memory:26524.0  time:14.533782099999826
+handle sequence i= 17    j= 28   MW320731.1      MW365357.1
+save to file: MW320731.1 VS MW365357.1 result:   score:297661    memory:-11616.0         time:11.749714199999744
+handle sequence i= 18    j= 19   MW320733.1      MW320735.1
+save to file: MW320733.1 VS MW320735.1 result:   score:297664    memory:-8216.0  time:6.177299500000117
+handle sequence i= 18    j= 20   MW320733.1      MW064259.1
+save to file: MW320733.1 VS MW064259.1 result:   score:293407    memory:-9008.0  time:8.333241799999996
+handle sequence i= 18    j= 21   MW320733.1      MW064260.1
+save to file: MW320733.1 VS MW064260.1 result:   score:293407    memory:-5884.0  time:7.9764617999999246
+handle sequence i= 18    j= 22   MW320733.1      MW064263.1
+save to file: MW320733.1 VS MW064263.1 result:   score:293407    memory:-48652.0         time:7.967131100000188
+handle sequence i= 18    j= 23   MW320733.1      MW064264.1
+save to file: MW320733.1 VS MW064264.1 result:   score:293407    memory:-9340.0  time:7.988475300000118
+handle sequence i= 18    j= 24   MW320733.1      MW342706.1
+save to file: MW320733.1 VS MW342706.1 result:   score:297211    memory:54156.0  time:12.271133499999905
+handle sequence i= 18    j= 25   MW320733.1      MW404672.1
+save to file: MW320733.1 VS MW404672.1 result:   score:297317    memory:-4732.0  time:11.98826790000021
+handle sequence i= 18    j= 26   MW320733.1      MW404673.1
+save to file: MW320733.1 VS MW404673.1 result:   score:297228    memory:-26708.0         time:12.472012800000357
+handle sequence i= 18    j= 27   MW320733.1      MW365356.1
+save to file: MW320733.1 VS MW365356.1 result:   score:297185    memory:10368.0  time:14.088250799999969
+handle sequence i= 18    j= 28   MW320733.1      MW365357.1
+save to file: MW320733.1 VS MW365357.1 result:   score:297339    memory:58424.0  time:12.7245668999999
+handle sequence i= 19    j= 20   MW320735.1      MW064259.1
+save to file: MW320735.1 VS MW064259.1 result:   score:293567    memory:-84028.0         time:8.378851599999962
+handle sequence i= 19    j= 21   MW320735.1      MW064260.1
+save to file: MW320735.1 VS MW064260.1 result:   score:293567    memory:4852.0   time:7.423626100000092
+handle sequence i= 19    j= 22   MW320735.1      MW064263.1
+save to file: MW320735.1 VS MW064263.1 result:   score:293567    memory:-2996.0  time:7.329295400000319
+handle sequence i= 19    j= 23   MW320735.1      MW064264.1
+save to file: MW320735.1 VS MW064264.1 result:   score:293567    memory:-18512.0         time:7.579582400000163
+handle sequence i= 19    j= 24   MW320735.1      MW342706.1
+save to file: MW320735.1 VS MW342706.1 result:   score:297592    memory:47804.0  time:11.844299100000171
+handle sequence i= 19    j= 25   MW320735.1      MW404672.1
+save to file: MW320735.1 VS MW404672.1 result:   score:297698    memory:-1056.0  time:11.837592200000017
+handle sequence i= 19    j= 26   MW320735.1      MW404673.1
+save to file: MW320735.1 VS MW404673.1 result:   score:297604    memory:-2444.0  time:12.176663900000221
+handle sequence i= 19    j= 27   MW320735.1      MW365356.1
+save to file: MW320735.1 VS MW365356.1 result:   score:297606    memory:50852.0  time:13.534005499999694
+handle sequence i= 19    j= 28   MW320735.1      MW365357.1
+save to file: MW320735.1 VS MW365357.1 result:   score:297728    memory:-2684.0  time:10.112766900000224
+handle sequence i= 20    j= 21   MW064259.1      MW064260.1
+save to file: MW064259.1 VS MW064260.1 result:   score:294090    memory:-113156.0        time:3.098534999999629
+handle sequence i= 20    j= 22   MW064259.1      MW064263.1
+save to file: MW064259.1 VS MW064263.1 result:   score:294090    memory:-18800.0         time:2.4267030999999406
+handle sequence i= 20    j= 23   MW064259.1      MW064264.1
+save to file: MW064259.1 VS MW064264.1 result:   score:294090    memory:-4848.0  time:2.3977483999997276
+handle sequence i= 20    j= 24   MW064259.1      MW342706.1
+save to file: MW064259.1 VS MW342706.1 result:   score:293263    memory:30936.0  time:7.183508900000106
+handle sequence i= 20    j= 25   MW064259.1      MW404672.1
+save to file: MW064259.1 VS MW404672.1 result:   score:293364    memory:25676.0  time:8.583555499999875
+handle sequence i= 20    j= 26   MW064259.1      MW404673.1
+save to file: MW064259.1 VS MW404673.1 result:   score:293250    memory:74392.0  time:10.876567400000113
+handle sequence i= 20    j= 27   MW064259.1      MW365356.1
+save to file: MW064259.1 VS MW365356.1 result:   score:293233    memory:-12568.0         time:11.666560000000118
+handle sequence i= 20    j= 28   MW064259.1      MW365357.1
+save to file: MW064259.1 VS MW365357.1 result:   score:293421    memory:-46476.0         time:7.446470500000032
+handle sequence i= 21    j= 22   MW064260.1      MW064263.1
+save to file: MW064260.1 VS MW064263.1 result:   score:294090    memory:-38296.0         time:2.730819700000211
+handle sequence i= 21    j= 23   MW064260.1      MW064264.1
+save to file: MW064260.1 VS MW064264.1 result:   score:294090    memory:-2496.0  time:2.3403213999999934
+handle sequence i= 21    j= 24   MW064260.1      MW342706.1
+save to file: MW064260.1 VS MW342706.1 result:   score:293263    memory:18784.0  time:7.260732799999914
+handle sequence i= 21    j= 25   MW064260.1      MW404672.1
+save to file: MW064260.1 VS MW404672.1 result:   score:293364    memory:-223548.0        time:9.273597599999903
+handle sequence i= 21    j= 26   MW064260.1      MW404673.1
+save to file: MW064260.1 VS MW404673.1 result:   score:293250    memory:320504.0         time:9.07115070000009
+handle sequence i= 21    j= 27   MW064260.1      MW365356.1
+save to file: MW064260.1 VS MW365356.1 result:   score:293233    memory:-36084.0         time:11.605844199999865
+handle sequence i= 21    j= 28   MW064260.1      MW365357.1
+save to file: MW064260.1 VS MW365357.1 result:   score:293421    memory:-58432.0         time:7.455025100000057
+handle sequence i= 22    j= 23   MW064263.1      MW064264.1
+save to file: MW064263.1 VS MW064264.1 result:   score:294090    memory:-28284.0         time:2.589086199999656
+handle sequence i= 22    j= 24   MW064263.1      MW342706.1
+save to file: MW064263.1 VS MW342706.1 result:   score:293263    memory:18352.0  time:6.5243875999999545
+handle sequence i= 22    j= 25   MW064263.1      MW404672.1
+save to file: MW064263.1 VS MW404672.1 result:   score:293364    memory:-20396.0         time:8.755467399999816
+handle sequence i= 22    j= 26   MW064263.1      MW404673.1
+save to file: MW064263.1 VS MW404673.1 result:   score:293250    memory:108664.0         time:10.640068100000008
+handle sequence i= 22    j= 27   MW064263.1      MW365356.1
+save to file: MW064263.1 VS MW365356.1 result:   score:293233    memory:-20176.0         time:11.672946800000318
+handle sequence i= 22    j= 28   MW064263.1      MW365357.1
+save to file: MW064263.1 VS MW365357.1 result:   score:293421    memory:-56904.0         time:7.371842099999867
+handle sequence i= 23    j= 24   MW064264.1      MW342706.1
+save to file: MW064264.1 VS MW342706.1 result:   score:293263    memory:2644.0   time:7.441687600000023
+handle sequence i= 23    j= 25   MW064264.1      MW404672.1
+save to file: MW064264.1 VS MW404672.1 result:   score:293364    memory:636.0    time:9.094267899999977
+handle sequence i= 23    j= 26   MW064264.1      MW404673.1
+save to file: MW064264.1 VS MW404673.1 result:   score:293250    memory:73684.0  time:10.745250399999804
+handle sequence i= 23    j= 27   MW064264.1      MW365356.1
+save to file: MW064264.1 VS MW365356.1 result:   score:293233    memory:-57568.0         time:11.446481200000107
+handle sequence i= 23    j= 28   MW064264.1      MW365357.1
+save to file: MW064264.1 VS MW365357.1 result:   score:293421    memory:-35448.0         time:7.2766028999999435
+handle sequence i= 24    j= 25   MW342706.1      MW404672.1
+save to file: MW342706.1 VS MW404672.1 result:   score:298117    memory:8276.0   time:11.299599200000102
+handle sequence i= 24    j= 26   MW342706.1      MW404673.1
+save to file: MW342706.1 VS MW404673.1 result:   score:298473    memory:3736.0   time:12.830888100000266
+handle sequence i= 24    j= 27   MW342706.1      MW365356.1
+save to file: MW342706.1 VS MW365356.1 result:   score:298358    memory:51156.0  time:13.913689599999998
+handle sequence i= 24    j= 28   MW342706.1      MW365357.1
+save to file: MW342706.1 VS MW365357.1 result:   score:298528    memory:-260928.0        time:11.27694509999992
+handle sequence i= 25    j= 26   MW404672.1      MW404673.1
+save to file: MW404672.1 VS MW404673.1 result:   score:298429    memory:258632.0         time:7.455850800000007
+handle sequence i= 25    j= 27   MW404672.1      MW365356.1
+save to file: MW404672.1 VS MW365356.1 result:   score:297974    memory:7968.0   time:14.298206599999958
+handle sequence i= 25    j= 28   MW404672.1      MW365357.1
+save to file: MW404672.1 VS MW365357.1 result:   score:298163    memory:-42076.0         time:12.057533299999704
+handle sequence i= 26    j= 27   MW404673.1      MW365356.1
+save to file: MW404673.1 VS MW365356.1 result:   score:298415    memory:82680.0  time:14.141764299999977
+handle sequence i= 26    j= 28   MW404673.1      MW365357.1
+save to file: MW404673.1 VS MW365357.1 result:   score:298560    memory:-35540.0         time:14.437863499999821
+handle sequence i= 27    j= 28   MW365356.1      MW365357.1
+save to file: MW365356.1 VS MW365357.1 result:   score:298435    memory:2860.0   time:15.644247199999882
+
+
+
+score: [298043.0, 298219.0, 295915.0, 297392.0, 298133.0, 297859.0, 298151.0, 298118.0, 298108.0, 298123.0, 298268.0, 298143.0, 298192.0, 298248.0, 296328.0, 297483.0, 297665.0, 297336.0, 297737.0, 293394.0, 293394.0, 293394.0, 293394.0, 297994.0, 298127.0, 298047.0, 298017.0, 298201.0, 298288.0, 295956.0, 297498.0, 298243.0, 297805.0, 298151.0, 298078.0, 298193.0, 298002.0, 298142.0, 298007.0, 298082.0, 298112.0, 296393.0, 297574.0, 297786.0, 297417.0, 297823.0, 293485.0, 293485.0, 293485.0, 293485.0, 298078.0, 297830.0, 298085.0, 298052.0, 298225.0, 295819.0, 297331.0, 298216.0, 297773.0, 298150.0, 298056.0, 298186.0, 298268.0, 298388.0, 298278.0, 298333.0, 298353.0, 296231.0, 297442.0, 297609.0, 297279.0, 297701.0, 293307.0, 293307.0, 293307.0, 293307.0, 298350.0, 298111.0, 298352.0, 298307.0, 298522.0, 296268.0, 296082.0, 295945.0, 296089.0, 296089.0, 296067.0, 295878.0, 296018.0, 295943.0, 295937.0, 295968.0, 294796.0, 296082.0, 296060.0, 295864.0, 296043.0, 292050.0, 292050.0, 292050.0, 292050.0, 295825.0, 295915.0, 295826.0, 295811.0, 295866.0, 297609.0, 297509.0, 297616.0, 297601.0, 297599.0, 297375.0, 297555.0, 297465.0, 297514.0, 297490.0, 296333.0, 297599.0, 297572.0, 297411.0, 297565.0, 293587.0, 293587.0, 293587.0, 293587.0, 297347.0, 297442.0, 297323.0, 297326.0, 297413.0, 298054.0, 298370.0, 298335.0, 298475.0, 298234.0, 298354.0, 298259.0, 298289.0, 298329.0, 296530.0, 297715.0, 297912.0, 297568.0, 297979.0, 293621.0, 293621.0, 293621.0, 293621.0, 298137.0, 298091.0, 298134.0, 298136.0, 298294.0, 298061.0, 298046.0, 298034.0, 297822.0, 297987.0, 297894.0, 297931.0, 
+297917.0, 296307.0, 297500.0, 297665.0, 297338.0, 297747.0, 293409.0, 293409.0, 293409.0, 293409.0, 297744.0, 297857.0, 297746.0, 297738.0, 297855.0, 298369.0, 298355.0, 298194.0, 298314.0, 298219.0, 298238.0, 298289.0, 296537.0, 297722.0, 297919.0, 297575.0, 297986.0, 293628.0, 293628.0, 293628.0, 293628.0, 298071.0, 298098.0, 298068.0, 298070.0, 298217.0, 298305.0, 298095.0, 298215.0, 298120.0, 298140.0, 298190.0, 296517.0, 297702.0, 297899.0, 297560.0, 297976.0, 293603.0, 293603.0, 293603.0, 293603.0, 297982.0, 298073.0, 297994.0, 297981.0, 298129.0, 298199.0, 298309.0, 298224.0, 298264.0, 298294.0, 296500.0, 297705.0, 297857.0, 297550.0, 297939.0, 293601.0, 293601.0, 293601.0, 293601.0, 298114.0, 298050.0, 298106.0, 298118.0, 298261.0, 298515.0, 298395.0, 298430.0, 298490.0, 296276.0, 297476.0, 297678.0, 297324.0, 297745.0, 293377.0, 293377.0, 293377.0, 293377.0, 298240.0, 298140.0, 298237.0, 298157.0, 298391.0, 298640.0, 298665.0, 298605.0, 296400.0, 297571.0, 297773.0, 297434.0, 297830.0, 293497.0, 293497.0, 293497.0, 293497.0, 298435.0, 298330.0, 298447.0, 298362.0, 298536.0, 298535.0, 298525.0, 296280.0, 297496.0, 297673.0, 297304.0, 297740.0, 293392.0, 293392.0, 293392.0, 293392.0, 298310.0, 298240.0, 298357.0, 298212.0, 298401.0, 298515.0, 296329.0, 297500.0, 297687.0, 297359.0, 297759.0, 293442.0, 293442.0, 293442.0, 293442.0, 298390.0, 298290.0, 298362.0, 298231.0, 298466.0, 296400.0, 297576.0, 297748.0, 297401.0, 297820.0, 293472.0, 293472.0, 293472.0, 293472.0, 298370.0, 298240.0, 298357.0, 298287.0, 298506.0, 296532.0, 296633.0, 296359.0, 296621.0, 292332.0, 292332.0, 292332.0, 292332.0, 296258.0, 296282.0, 296193.0, 296191.0, 296328.0, 297808.0, 297640.0, 297806.0, 293601.0, 293601.0, 293601.0, 293601.0, 297353.0, 297443.0, 297349.0, 297332.0, 297469.0, 297653.0, 298008.0, 293594.0, 293594.0, 293594.0, 293594.0, 297535.0, 297640.0, 297541.0, 297554.0, 297661.0, 297664.0, 293407.0, 293407.0, 293407.0, 293407.0, 297211.0, 297317.0, 297228.0, 297185.0, 297339.0, 
+293567.0, 293567.0, 293567.0, 293567.0, 297592.0, 297698.0, 297604.0, 297606.0, 297728.0, 294090.0, 294090.0, 294090.0, 293263.0, 293364.0, 293250.0, 293233.0, 293421.0, 294090.0, 294090.0, 293263.0, 293364.0, 293250.0, 293233.0, 293421.0, 294090.0, 293263.0, 293364.0, 293250.0, 293233.0, 293421.0, 293263.0, 293364.0, 293250.0, 293233.0, 293421.0, 298117.0, 298473.0, 298358.0, 298528.0, 298429.0, 297974.0, 298163.0, 298415.0, 298560.0, 298435.0]
+memory: [194320.0, 31964.0, 7848.0, 34148.0, -3732.0, -908.0, 12468.0, 18552.0, -29632.0, -241740.0, 238016.0, 9424.0, -2372.0, 9660.0, -36412.0, -5800.0, 17696.0, -7136.0, 42336.0, -28140.0, 1508.0, 228.0, -254652.0, 287904.0, -48760.0, 39796.0, -22624.0, -1888.0, -9348.0, -234424.0, 201612.0, -11984.0, 28328.0, -28232.0, 45764.0, 37492.0, -48388.0, 7576.0, -19208.0, -222232.0, 236732.0, -13628.0, 
+-212004.0, 230088.0, 5308.0, -30276.0, -16844.0, -9880.0, -191084.0, 200924.0, -36420.0, 152072.0, -313708.0, 432.0, 231368.0, -231612.0, 254540.0, -6772.0, 4244.0, -3956.0, -31636.0, 34596.0, -30980.0, 29652.0, -17552.0, 2732.0, 21852.0, -10196.0, 20892.0, 14196.0, -33464.0, 1488.0, -9552.0, 18656.0, -19988.0, 13680.0, 14888.0, -16120.0, 55224.0, 45776.0, -57348.0, -52932.0, -3096.0, -5888.0, 3404.0, 2264.0, -240324.0, 180028.0, 132212.0, -303296.0, 196568.0, 2836.0, 26912.0, 23644.0, 123700.0, -144936.0, 26628.0, -34744.0, -229896.0, 1836.0, -1696.0, 196532.0, 39416.0, 32172.0, -61872.0, 16164.0, -7532.0, 16796.0, -17636.0, 15468.0, -14100.0, 8608.0, 30712.0, 3828.0, -35652.0, 8068.0, 7316.0, -13168.0, 36480.0, -22620.0, -221596.0, 193832.0, 272.0, -3688.0, -56.0, -23940.0, -184400.0, 5932.0, -7460.0, 215780.0, -43260.0, -25256.0, 53140.0, -39784.0, 49780.0, -18484.0, 13160.0, -23256.0, 37660.0, 7844.0, -22740.0, 6416.0, 22880.0, 31200.0, -76792.0, -17840.0, -1280.0, 972.0, 38784.0, 24904.0, 73180.0, -57508.0, -39680.0, -211052.0, 240876.0, -24800.0, -2332.0, -209636.0, 3584.0, -6128.0, 317544.0, -44240.0, -71392.0, 69028.0, -51800.0, 42380.0, -71800.0, 28036.0, 3000.0, -18572.0, 37692.0, -240752.0, 266092.0, 14440.0, -50820.0, -31788.0, -17728.0, 33480.0, -13108.0, 1148.0, 12192.0, 2788.0, -31332.0, 16288.0, 6468.0, 23112.0, 29976.0, -97888.0, -9304.0, -6508.0, 1740.0, 39024.0, -193088.0, 325308.0, -73472.0, -246888.0, 245336.0, -24436.0, 40308.0, 60616.0, -102820.0, 66492.0, -62136.0, 56708.0, 18236.0, -65428.0, 123036.0, -141676.0, 6604.0, 30216.0, 2816.0, -452.0, -19284.0, 58504.0, 10292.0, -8940.0, -87004.0, 48084.0, -32316.0, -226004.0, 284840.0, -64872.0, 10388.0, 27716.0, -21008.0, 93808.0, -165012.0, 17976.0, -3888.0, 6152.0, 36560.0, 8468.0, 95172.0, -43536.0, -59020.0, 38900.0, 5808.0, -262092.0, 247224.0, -16132.0, -6352.0, 85184.0, -52572.0, 3676.0, -8280.0, 11524.0, -396.0, -4088.0, -16968.0, 12356.0, 44668.0, -46528.0, 35496.0, -40776.0, -25680.0, -144.0, 16988.0, -14788.0, -12436.0, 24148.0, 44708.0, -54668.0, -10804.0, -7228.0, 9068.0, 66184.0, -60300.0, 79672.0, -56468.0, 36244.0, -37680.0, -26800.0, -221752.0, 218540.0, -4508.0, 45844.0, -43808.0, 5164.0, 9996.0, 20324.0, 208.0, 29952.0, -36740.0, 14884.0, 2728.0, -18484.0, -1852.0, -7144.0, 4680.0, -3784.0, 11944.0, 10404.0, -60324.0, -8464.0, 5680.0, -7100.0, -186764.0, 218368.0, 107052.0, 19456.0, -154208.0, 40268.0, -5388.0, 1476.0, 5736.0, 44900.0, -5240.0, -60904.0, 600.0, -684.0, 36080.0, -255384.0, 278508.0, -19092.0, 36476.0, -18868.0, -53960.0, -7028.0, 8280.0, -223612.0, 206696.0, -1596.0, 3964.0, 49400.0, 24356.0, -277480.0, 204616.0, 155708.0, -196592.0, 52012.0, -24584.0, 10232.0, 936.0, 528.0, -1532.0, -7864.0, 68428.0, -249068.0, 172880.0, 82184.0, -17708.0, -1984.0, -28388.0, 
+-576.0, 584.0, -120.0, 98132.0, -44780.0, 16628.0, 26524.0, -11616.0, -8216.0, -9008.0, -5884.0, -48652.0, -9340.0, 54156.0, -4732.0, -26708.0, 10368.0, 58424.0, -84028.0, 4852.0, -2996.0, -18512.0, 47804.0, -1056.0, -2444.0, 50852.0, -2684.0, -113156.0, -18800.0, -4848.0, 30936.0, 25676.0, 74392.0, -12568.0, -46476.0, -38296.0, -2496.0, 18784.0, -223548.0, 320504.0, -36084.0, -58432.0, -28284.0, 18352.0, -20396.0, 108664.0, -20176.0, -56904.0, 2644.0, 636.0, 73684.0, -57568.0, -35448.0, 8276.0, 3736.0, 51156.0, -260928.0, 258632.0, 7968.0, -42076.0, 82680.0, -35540.0, 2860.0]
+time: [7.7641576, 11.2022803, 13.207976500000001, 10.699808599999997, 10.5088084, 12.280827300000006, 11.673906700000003, 11.978440599999999, 10.737587399999995, 14.820845299999988, 9.110888900000006, 
+12.827773799999989, 13.340368399999988, 11.387460599999997, 12.151314500000012, 11.1841321, 11.671866800000004, 11.872157800000025, 12.369742200000019, 10.134956999999986, 9.781495299999989, 10.035707399999978, 10.69268630000002, 10.341313899999989, 12.851257299999986, 13.96344849999997, 14.736785699999984, 12.250270100000023, 10.715141399999993, 14.86888590000001, 6.715506000000005, 6.244401499999981, 9.034943400000031, 7.192655899999977, 8.674877700000025, 8.996479599999986, 11.802703199999996, 8.952790200000038, 12.823016699999982, 11.207955200000015, 7.03651119999995, 10.157638499999962, 11.91349839999998, 8.757354599999985, 10.335934400000042, 10.809199399999954, 7.4040392, 6.7001450000000204, 7.385591299999987, 5.290087299999982, 12.004016500000034, 12.611419800000021, 15.239838500000019, 12.277569700000072, 9.594525399999952, 16.36932659999991, 9.308950099999947, 9.11148430000003, 10.078314399999954, 9.32644670000002, 10.859538699999916, 10.547693799999934, 12.92248010000003, 10.577003999999988, 13.786028999999985, 11.718597699999918, 10.885701799999993, 13.186734000000001, 11.37157650000006, 12.010314900000026, 12.259652099999926, 12.185009500000092, 10.22214930000007, 13.480658500000004, 11.392654500000049, 9.879726000000005, 13.543849300000034, 14.209967300000017, 14.596030799999994, 16.31924630000003, 13.004511200000024, 9.358492400000046, 11.087512100000026, 12.497877099999982, 10.891885600000023, 11.656588899999974, 11.549214599999914, 13.033025500000008, 12.551491400000032, 16.19602789999999, 12.335278899999935, 13.374587100000099, 15.438192999999956, 13.590978699999823, 14.205374200000051, 14.960282799999959, 13.236033399999997, 10.196462800000063, 10.98067160000005, 9.908200299999862, 9.82562320000011, 13.5927365, 15.166708299999982, 16.098744199999828, 16.530425899999955, 12.670642099999895, 5.982067199999847, 7.685925600000019, 5.800545900000088, 7.386342499999955, 7.2717525999999, 10.661798500000032, 8.609466399999974, 12.337941600000022, 9.989578400000028, 7.642372699999896, 10.269887200000085, 8.398616599999968, 8.889712599999939, 10.052840699999933, 10.225365499999953, 4.7466441999999915, 5.695743700000094, 6.306564199999912, 6.139156499999899, 8.875212500000089, 11.147394300000087, 11.310685299999932, 11.699315699999943, 8.039316399999962, 5.961661399999912, 2.709105700000009, 4.10515190000001, 4.764067699999941, 9.591213500000094, 5.266244799999868, 9.078765900000008, 6.996664799999962, 6.27039179999997, 7.934437099999968, 6.617000399999824, 6.128923799999939, 7.7166530000001785, 7.884397000000035, 3.7013059000000794, 3.0380934999998317, 3.1059519000000364, 3.1056326999998873, 7.379944799999976, 8.266359500000135, 11.143027200000006, 12.1296648, 7.741679100000056, 6.545846800000163, 7.15356399999996, 7.058640200000127, 11.076330999999982, 8.286207099999956, 10.450011500000073, 7.628124300000081, 8.377127700000074, 10.476413000000093, 9.898248100000046, 10.578950999999961, 11.333111299999928, 9.908439999999928, 7.186488199999985, 6.428223399999979, 6.618216099999927, 6.426297100000056, 9.796466900000041, 11.059809899999891, 10.346674800000073, 14.481238500000018, 9.149677200000042, 4.786416800000097, 4.9765354999999545, 10.038286900000003, 4.971511999999848, 8.564573900000141, 7.112602799999877, 7.360476800000015, 8.86028669999996, 6.680142299999943, 6.63685670000018, 7.819790099999864, 8.03428370000006, 3.484173499999997, 3.0380855000000793, 2.8158935000001293, 3.022892899999988, 7.583120199999939, 9.2534705999999, 9.702884799999993, 12.450061499999947, 8.35204920000001, 4.688638300000093, 10.896883000000116, 6.964213099999824, 
+9.551065999999992, 8.797069400000055, 8.060403299999962, 9.422419900000023, 8.657113399999844, 9.945280299999922, 9.741956200000004, 9.81663350000008, 6.35391350000009, 5.849349300000085, 6.125553699999955, 6.154923499999768, 9.79547939999975, 12.376571400000103, 13.944837100000314, 14.041957699999784, 9.239886500000011, 10.859301100000266, 6.948721400000068, 9.278911999999764, 7.909240500000124, 6.5344326000004, 9.475085900000067, 7.612977999999657, 8.630007200000364, 9.74022369999966, 9.635520900000301, 5.7458456000003935, 4.709917300000143, 4.783668799999759, 4.678423400000156, 8.817466500000137, 9.410412299999734, 11.42820840000013, 12.326285000000098, 7.8885228000003735, 11.670859099999689, 14.630951699999969, 13.311507899999924, 10.26461399999971, 13.720141400000102, 12.07508450000023, 13.284551000000192, 14.018260199999986, 12.78435810000019, 9.893011399999978, 9.764277900000252, 9.470133099999657, 9.402392899999995, 12.354369800000313, 13.325333499999942, 13.840608800000155, 16.365746699999818, 13.258138099999996, 9.230080299999827, 7.603454600000077, 7.147591299999931, 9.669616399999995, 8.004996799999844, 7.628816699999788, 9.568416699999943, 9.454844400000184, 6.537205699999959, 5.688655400000243, 6.126693800000339, 5.824253499999941, 10.838130999999976, 10.514272800000072, 11.87928520000014, 13.63594890000013, 9.960908300000028, 11.66478139999981, 11.215799600000082, 12.667685299999903, 9.3657804999998, 10.484282000000348, 12.314926699999887, 10.986960300000192, 8.638345399999707, 8.620738099999926, 8.805153100000098, 9.111049999999977, 13.03370539999969, 11.566006000000016, 13.00153199999977, 14.897202200000265, 11.701817699999992, 9.291350500000135, 11.027817000000141, 9.40284870000005, 9.365018599999985, 10.521708000000217, 11.042162500000359, 7.523271300000033, 7.00174670000024, 7.375688699999955, 12.458729500000118, 18.003657100000055, 15.039201499999763, 21.739236000000346, 22.973211999999876, 14.74210710000034, 14.265746099999888, 12.3590264999998, 10.722193600000082, 11.62689679999994, 13.070179800000005, 8.498619800000142, 7.8734120999997685, 7.466242699999839, 7.990574799999649, 12.794426999999814, 14.602831000000151, 12.702126300000145, 12.515492999999879, 10.602831000000151, 6.933874599999854, 6.411828799999967, 7.389643000000433, 7.227934000000005, 9.673617500000091, 7.272810400000253, 8.170716500000253, 8.46935399999984, 12.754954400000315, 13.218642299999829, 14.319980199999918, 12.317333899999994, 11.319527199999811, 4.794022099999893, 6.125725399999737, 4.683696699999928, 6.627933000000212, 6.535929499999838, 6.477038600000014, 6.524735399999827, 11.119589900000392, 11.240539999999783, 13.15453609999986, 11.747936199999913, 10.137503999999808, 6.710008900000048, 5.83356589999994, 7.031925399999636, 6.663893299999927, 6.644907400000193, 6.796192499999961, 11.25263300000006, 12.90230930000007, 14.628223400000024, 14.533782099999826, 11.749714199999744, 6.177299500000117, 8.333241799999996, 7.9764617999999246, 7.967131100000188, 7.988475300000118, 12.271133499999905, 11.98826790000021, 12.472012800000357, 14.088250799999969, 12.7245668999999, 8.378851599999962, 7.423626100000092, 7.329295400000319, 7.579582400000163, 11.844299100000171, 11.837592200000017, 12.176663900000221, 13.534005499999694, 10.112766900000224, 3.098534999999629, 2.4267030999999406, 2.3977483999997276, 7.183508900000106, 8.583555499999875, 10.876567400000113, 11.666560000000118, 7.446470500000032, 2.730819700000211, 2.3403213999999934, 7.260732799999914, 9.273597599999903, 9.07115070000009, 11.605844199999865, 7.455025100000057, 2.589086199999656, 6.5243875999999545, 8.755467399999816, 10.640068100000008, 11.672946800000318, 7.371842099999867, 7.441687600000023, 9.094267899999977, 10.745250399999804, 11.446481200000107, 7.2766028999999435, 11.299599200000102, 12.830888100000266, 13.913689599999998, 11.27694509999992, 7.455850800000007, 14.298206599999958, 12.057533299999704, 14.141764299999977, 14.437863499999821, 15.644247199999882]
